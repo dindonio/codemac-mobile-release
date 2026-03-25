@@ -93,7 +93,7 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy, you can reach us at:
 
-**Email:** antonio@codemacpp.com
+**GitHub Issues:** https://github.com/dindonio/codemac-mobile-release/issues
 
 ---
 
