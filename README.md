@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="CodeMac++" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/dindonio/codemac-mobile-release/main/icon.png" alt="CodeMac++" width="128" height="128">
 </p>
 
 <h1 align="center">CodeMac++ Mobile</h1>
