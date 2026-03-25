@@ -12,6 +12,16 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS%2026%20%7C%20iPadOS%2026-000000?style=flat-square&logo=apple&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/Swift-6.2-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Engine-Core%20Text-333333?style=flat-square" alt="Core Text">
+  <img src="https://img.shields.io/badge/Languages-31-98C379?style=flat-square" alt="Languages">
+  <img src="https://img.shields.io/badge/Themes-6-C678DD?style=flat-square" alt="Themes">
+  <img src="https://img.shields.io/badge/AI-Claude%20%7C%20OpenAI%20%7C%20Gemini-61AFEF?style=flat-square" alt="AI">
+  <img src="https://img.shields.io/badge/Version-1.0.0-FF9F43?style=flat-square" alt="Version">
+</p>
+
+<p align="center">
   <!-- <a href="https://apps.apple.com/app/codemac-mobile/id000000000"><img src="https://img.shields.io/badge/App_Store-Download-blue?logo=apple&logoColor=white&style=for-the-badge" alt="Download on the App Store"></a> -->
   <img src="https://img.shields.io/badge/App_Store-Coming_Soon-FF9F43?logo=apple&logoColor=white&style=for-the-badge" alt="Coming Soon">
 </p>
