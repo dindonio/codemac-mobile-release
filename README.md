@@ -1,91 +1,84 @@
+# CodeMac++ Mobile
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dindonio/codemac-mobile-release/main/icon.png" alt="CodeMac++" width="128" height="128">
+  <img src="assets/icon.png" width="128" height="128" alt="CodeMac++ Mobile Icon">
 </p>
 
-<h1 align="center">CodeMac++ Mobile</h1>
+<h2 align="center">CodeMac++ Mobile</h2>
 
 <p align="center">
-  <strong>Code Editor for iOS / iPadOS</strong>
+  A native iOS/iPadOS code editor built with Swift and Core Text.<br>
+  By Antonio Scognamiglio
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS%2026+-000000?style=flat-square&logo=apple&logoColor=white" alt="Platform">
-  <img src="https://img.shields.io/badge/Swift-6.2-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Version-1.0.0-FF9F43?style=flat-square" alt="Version">
+  <!-- <a href="https://apps.apple.com/app/codemac-mobile/id000000000"><img src="https://img.shields.io/badge/App_Store-Download-blue?logo=apple&logoColor=white&style=for-the-badge" alt="Download on the App Store"></a> -->
+  <img src="https://img.shields.io/badge/App_Store-Coming_Soon-FF9F43?logo=apple&logoColor=white&style=for-the-badge" alt="Coming Soon">
 </p>
 
 ---
 
-A native, high-performance code editor for iPhone and iPad — built from scratch with a custom Core Text rendering engine. Fast, beautiful, and privacy-first.
-
 ## Download
 
-<!--
-<a href="https://apps.apple.com/app/codemac-mobile/id000000000">
-  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
-</a>
--->
+<!-- **[Download CodeMac++ Mobile on the App Store](https://apps.apple.com/app/codemac-mobile/id000000000)** -->
 
-> Coming soon to the App Store
+**Coming soon to the App Store.**
+
+Requires iOS 26+ / iPadOS 26+.
+
+---
 
 ## Features
 
-### Editor
-- **Custom rendering engine** — Built on Core Text for smooth performance on large files
-- **31 languages** — Syntax highlighting with tree-sitter AST + regex
-- **6 dark & light themes** — One Dark, Midnight, Ocean, Forest, Light, Sunset
-- **Auto-complete** — Keywords and code snippets as you type
-- **Find & Replace** — With full regex support
-- **Bracket matching** — Visual indicators for matching brackets
-- **Indent guides** — Subtle visual guides at each indentation level
+- **Custom Core Text rendering engine** — instant loading of large files, 60fps scrolling
+- **Syntax highlighting** for 31 languages (10 with tree-sitter AST parsing)
+- **AI integration** — Claude, OpenAI, Google Gemini (bring your own API key)
+- **AI Chat panel** — persistent conversation history with code insert/replace
+- **7 AI actions** — Explain, Refactor, Fix, Document, Optimize, Test, Generate Code
+- **Find & Replace** with regex support
+- **Auto-complete** — keywords and code snippets for 16 languages
+- **6 built-in themes** — One Dark, Midnight, Ocean, Forest, Light, Sunset
+- **Bracket matching** and indent guides
+- **Diff viewer** — side-by-side file comparison
+- **Markdown preview** — live rendered preview
+- **Hex viewer** — binary file inspection
+- **PDF export** — syntax-highlighted code export with line numbers
+- **Function navigator** — jump to functions, classes, structs
+- **iPad split view** — sidebar with document list
+- **Multi-window** — open multiple editor windows on iPad
+- **15+ keyboard shortcuts** for external keyboards
+- **Keyboard accessory bar** — 30+ programming symbols
+- **Spotlight search** — find files from iOS search
+- **Handoff** — continue editing on another device
+- **Home screen widget** — recent files (small, medium, large)
+- **Live Activities** — Dynamic Island progress for AI requests
+- **iCloud sync** — settings synchronized across devices
+- **Word wrap**, line numbers, auto-close brackets, auto-indent
+- **Context menu** — cut, copy, paste, select all, AI actions
+- **Drag & drop** — move text within editor, drop files from Files.app
 
-### AI Assistant
-> Bring Your Own Key — works with your API key, no subscription required
+### Supported Languages
 
-- **Claude** (Anthropic), **ChatGPT** (OpenAI), **Gemini** (Google)
-- 7 actions: Explain, Refactor, Fix, Document, Optimize, Test, Generate
-- Persistent chat panel with conversation history
-- Insert or replace code directly from AI responses
-- API keys stored securely in iOS Keychain
+**Tree-sitter (AST):** Python, JavaScript, TypeScript, JSON, C, Go, Rust, HTML, CSS, Ruby
 
-### iPad Optimized
-- Split view with document sidebar
-- Multi-window support
-- 15+ keyboard shortcuts
-- Keyboard accessory bar with programming symbols
+**Regex:** Swift, C++, Objective-C, Java, Kotlin, Dart, PHP, Lua, Perl, R, SQL, Shell, YAML, XML, Markdown, TOML, Dockerfile, Makefile, Gitignore, FortiOS, Plain Text
 
-### Tools
-- **Diff viewer** — Side-by-side file comparison
-- **Markdown preview** — Live rendered preview
-- **Hex viewer** — Binary file inspection
-- **PDF export** — Syntax-highlighted code export
-- **Function navigator** — Jump to functions, classes, structs
-
-### iOS Integration
-- **Spotlight** — Find files from iOS search
-- **Handoff** — Continue editing on another device
-- **Widgets** — Recent files on your home screen
-- **iCloud** — Settings synced across devices
-
-## Supported Languages
-
-| Tree-sitter (AST) | Regex |
-|---|---|
-| Python, JavaScript, TypeScript, JSON, C, Go, Rust, HTML, CSS, Ruby | Swift, C++, Objective-C, Java, Kotlin, Dart, PHP, Lua, Perl, R, SQL, Shell, YAML, XML, Markdown, TOML, Dockerfile, Makefile, Gitignore, FortiOS |
-
-## Requirements
-
-- iOS 26.0 / iPadOS 26.0 or later
-- iPhone or iPad
+---
 
 ## Privacy
 
-CodeMac++ **does not collect any user data**. AI features are opt-in and use your own API keys. Keys are stored in iOS Keychain and never leave your device (except to the AI provider you choose).
+CodeMac++ Mobile does not collect any personal data. AI features are opt-in and require your own API key.
 
-[Full Privacy Policy](PRIVACY.md)
+See the full [Privacy Policy](PRIVACY_POLICY.md).
 
-## Credits
+---
 
-Built by **Antonio Scognamiglio**
+## Support
 
-Copyright &copy; 2026 Antonio Scognamiglio. All rights reserved.
+For issues or feedback, please open an [issue](https://github.com/dindonio/codemac-mobile-release/issues).
+
+---
+
+<p align="center">
+  Copyright © 2026 Antonio Scognamiglio. All rights reserved.
+</p>
