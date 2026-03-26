@@ -48,13 +48,20 @@ Requires iOS 26+ / iPadOS 26+.
 - **Find & Replace** with regex support
 - **Auto-complete** — keywords and code snippets for 16 languages
 - **6 built-in themes** — One Dark, Midnight, Ocean, Forest, Light, Sunset
+- **Code folding** — collapse/expand blocks with tap
+- **Bracket pair colorization** — 6 colors per nesting level
 - **Bracket matching** and indent guides
+- **Line bookmarks** — double-tap to mark lines
+- **File browser** — sidebar with project folders
+- **File templates** — 22 predefined templates for quick start
+- **Web preview** — live HTML/CSS/JS preview with 500ms debounce
+- **Line operations** — sort, deduplicate, join, reverse, trim
 - **Diff viewer** — side-by-side file comparison
 - **Markdown preview** — live rendered preview
 - **Hex viewer** — binary file inspection
 - **PDF export** — syntax-highlighted code export with line numbers
 - **Function navigator** — jump to functions, classes, structs
-- **iPad split view** — sidebar with document list
+- **iPad split view** — file tree sidebar
 - **Multi-window** — open multiple editor windows on iPad
 - **15+ keyboard shortcuts** for external keyboards
 - **Keyboard accessory bar** — 30+ programming symbols
