@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Languages-31-98C379?style=flat-square" alt="Languages">
   <img src="https://img.shields.io/badge/Themes-6-C678DD?style=flat-square" alt="Themes">
   <img src="https://img.shields.io/badge/AI-Claude%20%7C%20OpenAI%20%7C%20Gemini-61AFEF?style=flat-square" alt="AI">
-  <img src="https://img.shields.io/badge/Version-1.0.0-FF9F43?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.1.0-FF9F43?style=flat-square" alt="Version">
 </p>
 
 <p align="center">
