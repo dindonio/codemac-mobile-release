@@ -22,17 +22,14 @@
 </p>
 
 <p align="center">
-  <!-- <a href="https://apps.apple.com/app/codemac-mobile/id000000000"><img src="https://img.shields.io/badge/App_Store-Download-blue?logo=apple&logoColor=white&style=for-the-badge" alt="Download on the App Store"></a> -->
-  <img src="https://img.shields.io/badge/App_Store-Coming_Soon-FF9F43?logo=apple&logoColor=white&style=for-the-badge" alt="Coming Soon">
+  <a href="https://apps.apple.com/app/id6761269270"><img src="https://img.shields.io/badge/App_Store-Download-FF9F43?logo=apple&logoColor=white&style=for-the-badge" alt="Download on the App Store"></a>
 </p>
 
 ---
 
 ## Download
 
-<!-- **[Download CodeMac++ Mobile on the App Store](https://apps.apple.com/app/codemac-mobile/id000000000)** -->
-
-**Coming soon to the App Store.**
+**[Download CodeMac++ Mobile on the App Store](https://apps.apple.com/app/id6761269270)**
 
 Requires iOS 26+ / iPadOS 26+.
 
